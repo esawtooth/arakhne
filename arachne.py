@@ -1,13 +1,10 @@
 #!/usr/bin/env python
 #
-# The Arachne Framework provides backend storage, context search and 
-# analytics support for the vextir world. The storage mechanism is 
-# inspired on the graph database (process graph) structure and is 
-# build on cassandra after maximising asynchronous call mechanisms
-# and in the data transport layers.
+# The Arachne Framework provides backend storage based on cassandra.
+# It is based on the property graph idea similar to that of Neo4j
 #
-# Authors: Rohit Jain <rohit.jain@vextir.com>
-# 	   P. Santosh Kumar <santosh.pothula@vextir.com>
+# Authors: Rohit Jain <admin@rohitjain.info>
+#    	   P. Santosh Kumar <psk221090@gmail.com>
 # 
 # Date Started: 6 June 2011
 
