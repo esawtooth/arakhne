@@ -1,12 +1,12 @@
 Arakhne
 
 Arakhne is a graph based data retention layer built on top of Apache Cassandra.
-I last worked on this a couple of years ago. It was built to work atop
-Cassandra version 0.7 and has not been updated since. It basically provides a
+I last worked on this a couple of years ago. It was last tested on Cassandra
+version 0.7 and has not been updated since. It basically provides a
 property graphy over the cassandra data model which very convieniently allows
-for a simple adjacency list. I saw this while dusting by FS, and decided to
+for a simple adjacency list. I saw this while dusting my FS, and decided to
 put it up here. It depends on the pycassa interface to cassandra.
 
 Contributors:
-  Rohit Jain
-  P. Santosh Kumar
+  Rohit Jain <admin@rohitjain.info>
+  P. Santosh Kumar <psk221090@gmail.com>
